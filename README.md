@@ -41,15 +41,15 @@ This project analyzes **284,807 credit card transactions** to develop a robust f
 ## 🖼️ Dashboard Screenshots
 
 ### Overview Dashboard
-![Overview Dashboard](CD-1.png)
+![Overview Dashboard](images/CD-1.png)
 *Main dashboard showing transaction statistics, class distribution, and key metrics with interactive sidebar controls*
 
 ### Fraud Patterns Analysis
-![Fraud Patterns](CD-2.png)
+![Fraud Patterns](images/CD-2.png)
 *Fraud patterns over time showing peak hours (2:00 AM, 11:00 AM) and amount range analysis with statistical insights*
 
 ### Real-time Detection Interface
-![Real-time Detection](CD-3.png)
+![Real-time Detection](images/CD-3.png)
 *Interactive transaction analysis tool with risk factor breakdown and detailed explanations for fraud detection*
 
 ## 🛠️ Technology Stack
@@ -203,7 +203,7 @@ If you have any questions or need support:
 
 ## 🙏 Acknowledgments
 
-- **Dataset**: Credit card fraud detection dataset[kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- **Dataset**: Credit card fraud detection dataset(kaggle)
 - **Libraries**: Streamlit, Plotly, Pandas, NumPy
 - **Community**: Open source contributors and fraud detection researchers
 
